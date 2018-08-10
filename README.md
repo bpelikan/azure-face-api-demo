@@ -1,4 +1,4 @@
-# azure-face-api-demo
+# Azure-face-api-demo
 Demonstration of using Face API on Azure.  
 This example uses: 
 * **Function App** with **Blob trigger**, 
