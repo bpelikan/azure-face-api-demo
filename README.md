@@ -1,5 +1,9 @@
 # azure-face-api-demo
-
+Demonstration of using Face API on Azure.  
+This example uses: 
+* **Function App** with **Blob trigger**, 
+* **Face API** and 
+* **Azure Cosmos DB** to store result
 ## Setting up
 What you need:
 * **Function App** with:
