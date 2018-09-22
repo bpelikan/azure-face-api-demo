@@ -8,7 +8,7 @@ This example uses:
 ## Setting up
 What you need:
 * **Function App** with:
-  * `Runtime version` : `beta`
+  * `Runtime version` : `~2(Preview)`
   * `Application settings`:
     * `"ImagesStorageConnectionString": "{connection_string_to_storage_account}"`
     * `"FaceApiKey": "{face_api_key}"`
